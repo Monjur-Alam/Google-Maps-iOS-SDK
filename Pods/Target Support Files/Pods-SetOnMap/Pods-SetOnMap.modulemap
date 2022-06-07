@@ -1,0 +1,6 @@
+framework module Pods_SetOnMap {
+  umbrella header "Pods-SetOnMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
